@@ -2,7 +2,7 @@
 
   <div class="about">
    <v-app id="inspire">
-   <h3>Formulate waterplan
+   <h3>Formulate feedback
    </h3>
    <PlanView />
   </v-app>
