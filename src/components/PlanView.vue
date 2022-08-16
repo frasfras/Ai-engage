@@ -35,7 +35,7 @@
           thumb-label="always"
         ></v-slider>
 
-          <label for="Instructions">Requestor</label>
+          <label for="Instructions">Project</label>
           <input
             type="text"
             class="form-control"
