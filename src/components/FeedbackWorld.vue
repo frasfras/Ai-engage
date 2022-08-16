@@ -19,7 +19,7 @@
       <caption></caption>
       <thead>
         <tr>
-          <th>Name</th>
+         <th>Project</th>
           <th>City</th>
           <th>Comments Sentiment</th>
           <th>Rating</th>
