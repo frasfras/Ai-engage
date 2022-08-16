@@ -34,7 +34,7 @@
           </td>
           <td><button type="button" class="btn btn-primary">city</button></td>
           <td>
-            <button type="button" class="btn btn-success">sentiment</button>
+            <button type="button" class="btn btn-success">positive</button>
           </td>
           <td><button type="button" class="btn btn-info">rating</button></td>
         </tr>
