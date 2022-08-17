@@ -119,14 +119,14 @@ export default {
   methods: {
     fetchPlan() {
       const query = `{
-                    queryWaterplan{
+                    queryEngage{
                          records{
                              fields{
-                               Hole 
-                               Fairway 
-                               Greens
-                               Teebox
-                               Roughs
+                               Name 
+                               City 
+                               Rating
+                               Comments
+                               sentiment
                              } 
                          }
                     }
@@ -152,8 +152,6 @@ export default {
           })
           .then((data) => {
             console.log("Success:", data);
-            //responseA.value = response.data.data.queryWaterplan.records.map(records => records.fields)
-
             //  console.log(responseA);
           });
       } finally {
@@ -173,7 +171,7 @@ export default {
       var self = this;
       var data = JSON.stringify({
         query:
-          "{queryWaterplan{records{fields{Hole Fairway Greens Teebox Roughs } }  }}",
+          "{queryWaterplan{records{fields{Name City Rating Comments sentiment } }  }}",
       });
       //     var url= "https://shima.stepzen.net/api/airtable/__graphql"
       this.plans = [];
