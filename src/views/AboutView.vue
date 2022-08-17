@@ -11,7 +11,6 @@
   </div>
 </template>
 <script>
-//import HelloCourse from "@/components/CourseView.vue";
 import PlanView from "@/components/PlanView.vue";
 /* eslint-disable */ 
 export default {
