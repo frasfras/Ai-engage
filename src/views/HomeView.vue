@@ -11,8 +11,8 @@
         <span class="badge badge-primary badge-pill">175</span>
     </li>
 </ul>
- <h3>setup Alert for Media Monitoring</h3>
-<h3>Add new Alert here 👉🏽 </h3>🏽
+
+<h3>Create new Alert here 👉🏽 </h3>🏽
     <v-row class="text-center">
       <v-col cols="12">
 <!--  <HelloWorld msg="Feedbacks plan"/> -->
