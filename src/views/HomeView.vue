@@ -1,8 +1,9 @@
 <template>
 <v-container>
+<h3>Create  new Alert here 👉🏽 </h3>🏽
     <v-row class="text-center">
       <v-col cols="12">
-  <HelloWorld msg="Feedbacks plan"/>
+<!--  <HelloWorld msg="Feedbacks plan"/> -->
   </v-col cols="12">
   </v-row class="text-center">
   </v-container>
@@ -10,13 +11,13 @@
 </template>
 
 <script>
-  import HelloWorld from '@/components/FeedbackWorld.vue';
+//  import HelloWorld from '@/components/FeedbackWorld.vue';
 /* eslint-disable */
   export default {
     name: 'Home',
 
     components: {
-      HelloWorld,
+ //     HelloWorld,
     },
   }
 </script>
