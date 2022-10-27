@@ -1,6 +1,18 @@
 <template>
 <v-container>
-<h3>Create  new Alert here 👉🏽 </h3>🏽
+ <h5>MENTIONS FEED  analysis for brand mentions.Get summary for online MENTIONS</h5>
+<ul class="list-group">
+    <li class="list-group-item d-flex justify-content-between align-items-center active">
+    Analyzes tonality and sentiment
+        <span class="badge badge-danger badge-pill">100</span>
+    </li>
+    <li class="list-group-item d-flex justify-content-between align-items-center">
+    Filters out irrelevant data
+        <span class="badge badge-primary badge-pill">175</span>
+    </li>
+</ul>
+ <h3>setup Alert for Media Monitoring</h3>
+<h3>Add new Alert here 👉🏽 </h3>🏽
     <v-row class="text-center">
       <v-col cols="12">
 <!--  <HelloWorld msg="Feedbacks plan"/> -->
