@@ -13,7 +13,7 @@
 </ul>
 
 <h3>Create new Alert here 👉🏽 </h3>🏽
-<iframe src='https://frasfras.github.io/curly-rep/' height='1000' width='100%' ></iframe>
+<iframe src='https://frasfras.github.io/curly-rep/' height='900' width='100%' ></iframe>
     <v-row class="text-center">
       <v-col cols="12">
 <!--  <HelloWorld msg="Feedbacks plan"/> -->
